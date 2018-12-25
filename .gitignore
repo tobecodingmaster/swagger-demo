@@ -1,0 +1,11 @@
+# Intellij
+*.iml
+.idea/
+# jrebel
+rebel.xml
+# target directory
+target/
+# Java class files
+*.class
+*.pid
+
